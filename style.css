@@ -1,0 +1,59 @@
+body{
+    background-color: #9478ad;
+   font-size: 20px;
+}
+
+
+img{
+    /* padding: 10px 5px 20px 15px; */
+    padding-top: 10px;
+    border: 1px #246aeb solid  ;
+    margin: 30px;
+
+}
+
+
+
+li{
+    list-style-type: none;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.541);
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+
+.div-1{
+    background-color: #cccccc ;
+}
+.div-1 img{
+    width: 100px;
+}
+
+#div-1 p{
+    color: cadetblue;
+    padding: 30px;
+}
+
+.boja-crvena{
+    color: crimson;
+}
+
+.pozadina-plavo{
+    background-color: darkcyan;
+}
+
+.boja-crvena.pozadina-plavo{
+    font-size: 234%;
+
+}
+
+.boja-crvena.pozadina-plavo h4{
+    color: midnightblue;
+    font-style: initial;
+    
+}
